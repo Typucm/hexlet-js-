@@ -10,6 +10,16 @@
   "author": "Dmitriy",
   "license": "ISC",
   "dependencies": {
+    "lodash": "^4.17.21",
     "semver": "^7.6.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Typucm/hexlet-js-.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Typucm/hexlet-js-/issues"
+  },
+  "homepage": "https://github.com/Typucm/hexlet-js-#readme"
 }
